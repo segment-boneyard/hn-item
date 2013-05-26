@@ -1,13 +1,13 @@
 
-# hn-score
+# hn-item
 
-  Retrieves the score for a hacker news item
+  Get a Hacker News item by URL.
 
 ## License
 
 (The MIT License)
 
-Copyright (c) 2013 Segment.io &lt;freinds@segment.io&gt;
+Copyright (c) 2013 Segment.io <friends@segment.io>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

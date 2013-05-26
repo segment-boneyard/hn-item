@@ -1,8 +1,7 @@
 {
-  "name": "hn-score",
-  "version": "0.0.2",
-  "description": "Retrieves the score for a hacker news item",
-  "keywords": [],
+  "name": "hn-item",
+  "version": "0.0.3",
+  "description": "Get a Hacker News item by URL.",
   "author": "Segment.io <friends@segment.io>",
   "dependencies": {
     "hyperquest": "~0.1.5",
