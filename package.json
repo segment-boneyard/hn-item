@@ -1,0 +1,12 @@
+{
+  "name": "hn-score",
+  "version": "0.0.1",
+  "description": "Retrieves the score for a hacker news item",
+  "keywords": [],
+  "author": "Segment.io <friends@segment.io>",
+  "dependencies": {
+    "hyperquest": "~0.1.5",
+    "cheerio": "~0.11.0"
+  },
+  "main": "lib/index"
+}
