@@ -1,6 +1,6 @@
 {
   "name": "hn-score",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Retrieves the score for a hacker news item",
   "keywords": [],
   "author": "Segment.io <friends@segment.io>",
